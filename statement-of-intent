@@ -1,0 +1,58 @@
+MaM - Thoth - Statement of Intent < 3 minute read
+
+Notes
+
+⦁ Novice, in this context, refers to a person who has some coding experience and intends to start work as a software developer, or similar role
+⦁ This document makes general assumptions based on my experience and conversations. I welcome suggestions and / or refinement
+
+Goals
+
+⦁ To help novices navigate the world of working in software development
+⦁ To help mentors prepare novice mentees for working in software development
+
+Suppositions
+
+⦁ Novices face non-coding challenges in the workplace
+⦁ Learning to code / coding on your own is significantly different from doing so in work
+⦁ Novices are often unprepared for responsibilities and difficult scenarios in software development
+⦁ This can cause significant stress, lack of productivity, and heighten imposter syndrome
+⦁ To expect novices to read several books on the below subjects is probably impractical, inefficient, and counter-productive
+⦁ An umbrella scheme to teach necessary skills is probably better than approaching them separately
+⦁ Preparing novices for these unknowns in a hands-on manner would benefit them, if for nothing else but exposure
+
+Responsibilities
+
+Responsibilities that novices may be required to fulfil, but are unprepared for, include but are not limited to:
+⦁ Reading, understanding, and preparing for work in complex repositories
+⦁ How to prepare work for Pull Request / Code Review (PR/CR), and how to perform them
+⦁ Testing code
+⦁ Using and progressing work through different environments / servers
+⦁ Initialising working environments on own machine to fit in with employer / co-workers
+⦁ How to use Agile / Kanban - taking tickets and writing them
+
+Scenarios
+
+Scenarios that novices may have to deal with, but are unprepared for, include but are not limited to:
+⦁ Bugs in others' code
+⦁ Code runs on co-worker's machines, but not theirs
+⦁ Poor, lacking, or non-existent documentation
+⦁ Unhelpful colleagues
+⦁ Sprawling repos
+⦁ Overwhelming information overload
+⦁ Overwhelming work commitments
+
+Intent
+
+⦁ Create a resource to educate and allow practice of the above responsibilities and scenarios
+⦁ Allow mentors and mentees to easily access this resource and identify where to find specific resources and activities to learn specific skills
+⦁ Allow mentors and mentees to easily improve this resource via feedback and implementation of new features and fixes
+
+Initial Ideas
+
+⦁ A Meet-A-Mentor Github repository with multiple sub-projects
+⦁ Sub-projects will have a story / ticket system with pieces of work in each
+⦁ Sub-project difficulty will vary at least in terms of task, knowledge, research required, number of sources needing to be called upon, helpfulness and completeness of accompanying resources
+⦁ A no-nonsense, 'what you need to know' approach to deciding what is most important for mentees to know
+⦁ Mentees and mentors will have an identification number used in a branching scheme allowing work to be completed without overwriting the master branch of a project
+⦁ Merging will require PR review
+⦁ A plan to move towards as self-sustaining a model as possible
