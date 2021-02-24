@@ -1,3 +1,3 @@
 # thoth
 
-A project to support novice software developers learn necessary, accompanying skills to compliment a new career.
+A project supporting novice software developers to learn necessary, accompanying skills to compliment a new career.
