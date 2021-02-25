@@ -1,0 +1,9 @@
+This is a list of skills to learn in React. These should be broken into small chunks for progressive learning 
+
+1) Creating a React project
+10) Removing default elements of a new React project so that it displays 'Hello World'
+20) Create a main component that renders and returns a h1 title element
+30) Create a child component and add it to main component
+40) Create state in main component and pass down the child component
+50) Create child class component & stateless functional component to compare
+60) Utilise lifecycle hook
