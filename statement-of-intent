@@ -9,6 +9,7 @@ Goals
 
 ⦁ To help novices navigate the world of working in software development
 ⦁ To help mentors prepare novice mentees for working in software development
+•	To help Champions/contributors to define tasks/sub-tasks of various degrees of difficulty
 
 Suppositions
 
@@ -19,6 +20,7 @@ Suppositions
 ⦁ To expect novices to read several books on the below subjects is probably impractical, inefficient, and counter-productive
 ⦁ An umbrella scheme to teach necessary skills is probably better than approaching them separately
 ⦁ Preparing novices for these unknowns in a hands-on manner would benefit them, if for nothing else but exposure
+•	Novices often need guidance to distinguish between nice-to-have skills and mandatory skills. This guidance will help to focus learning on the most essential topics
 
 Responsibilities
 
@@ -36,7 +38,7 @@ Scenarios that novices may have to deal with, but are unprepared for, include bu
 ⦁ Bugs in others' code
 ⦁ Code runs on co-worker's machines, but not theirs
 ⦁ Poor, lacking, or non-existent documentation
-⦁ Unhelpful colleagues
+⦁ Unhelpful colleagues - [ can this be in scope ? ]
 ⦁ Sprawling repos
 ⦁ Overwhelming information overload
 ⦁ Overwhelming work commitments
