@@ -1,0 +1,107 @@
+.book-entry {
+    border: 2px solid #B9E2EB;
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+    margin: 10px 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    transition: all 0.2s ease-in-out;
+}
+
+.book-entry:hover {
+    transform: scale(1.01);
+}
+
+.book-title {
+    font-family: 'Shell Roundhand', cursive;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.book-photo {
+    width: 150px;
+    height: 200px;
+    border-radius: 20px;
+    float: left;
+    margin-right: 20px;
+}
+
+.book-description {
+    font-size: medium;
+    font-family: 'Courier New', monospace;
+}
+
+.book-entry-footer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.book-basket-add {
+    all: unset;
+    border: 2px solid #B9E2EB;
+    text-align: center;
+    border-color: #B9E2EB;
+    border-radius: 6px;
+    width: 150px;
+    transition: all .2s ease-in-out;
+    font-family: 'Courier New', monospace;
+    cursor: pointer;
+}
+
+.book-basket-add:hover {
+    background-color: #B9E2EB;
+    transform: scale(1.2);
+}
+
+.basket {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  overflow: scroll;
+  font-family: 'Courier New', monospace;
+}
+
+@media screen and (min-width: 1200px) {
+
+  .basket {
+    position: fixed;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 250px;
+    border-left: 2px solid #B9E2EB;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .basket {
+    margin-top: 20px;
+  }
+}
+
+
+.basket-title {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.basket-item {
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    align-items: stretch;
+    border-bottom: 1px solid #B9E2EB;
+}
+
+.basket-item button {
+    all: unset;
+    cursor: pointer;
+    margin-right: 10px;
+    color: red;
+}
