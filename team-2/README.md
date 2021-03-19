@@ -2,4 +2,4 @@
 
 # a really great website
 
-# make any changes I like to this file
+# make any changes you like to this file
