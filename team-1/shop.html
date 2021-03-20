@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Booksy</title>
+    <link rel="stylesheet" href="./style/common.css" />
+    <link rel="stylesheet" href="./style/shop.css" />
+    <script src="./js/shop.js"></script>
+</head>
+
+<body>
+    <!-- Logo -->
+    <img class="logo" src="./resources/common/logo.png" alt="logo" />
+
+    <!-- Navigation -->
+    <div class="topnav">
+        <div class="topnav-centered">
+            <a href="about.html">About</a>
+            <a href="shop.html" class="active">Shop</a>
+        </div>
+    </div>
+
+    <!-- Main body -->
+    <div class="background">
+
+        <div class="book-entry">
+            <h3 class="book-title">Harry Potter and the Philosopher's Stone</h3>
+            <div class="book-entry-content">
+                <img class="book-photo" src="./resources/shop/hp.jpg" alt="harry potter book" />
+                <div class="book-description">
+                    Harry Potter, a boy who learns on his eleventh birthday that he is the orphaned son of two powerful
+                    wizards and possesses unique magical powers of his own.
+                    He is summoned from his life as an unwanted child to become a student at Hogwarts, an English
+                    boarding school for wizards.
+                    There, he meets several friends who become his closest allies and help him discover the truth about
+                    his parents' mysterious deaths.
+                </div>
+            </div>
+            <div class='book-entry-footer'>
+                <button class='book-basket-add' data-title="Harry Potter and the Philosopher's Stone">
+                    Add to Basket
+                </button>
+            </div>
+        </div>
+
+        <div class="book-entry">
+            <h3 class="book-title">Frankenstein</h3>
+            <div class="book-entry-content">
+                <img class="book-photo" src="./resources/shop/frankenstein.png" alt="Frankenstein" />
+                <div class="book-description">
+                    Frankenstein tells the story of gifted scientist Victor Frankenstein who succeeds in giving life to
+                    a being of his own creation.
+                    However, this is not the perfect specimen he imagines that it will be, but rather a hideous creature
+                    who is rejected by Victor and mankind in general.
+                </div>
+            </div>
+            <div class='book-entry-footer'>
+                <button class='book-basket-add' data-title="Frankenstein">
+                    Add to Basket
+                </button>
+            </div>
+        </div>
+
+        <div class="book-entry">
+            <h3 class="book-title">Kafka on the shore</h3>
+            <div class="book-entry-content">
+                <img class="book-photo" src="./resources/shop/kafka.jpg" alt="Kafka on the shore" />
+                <div class="book-description">
+                    Kafka on the Shore is powered by two remarkable characters: a teenage boy, Kafka Tamura, who runs
+                    away from home either to escape a gruesome oedipal prophecy or
+                    to search for his long-missing mother and sister; and an aging simpleton called Nakata, who never
+                    recovered from a wartime affliction and now is drawn toward Kafka for reasons that, like the most
+                    basic activities of daily life, he cannot fathom.
+                </div>
+            </div>
+            <div class='book-entry-footer'>
+                <button class='book-basket-add' data-title="Kafka on the shore">
+                    Add to Basket
+                </button>
+            </div>
+        </div>
+
+        <div class="book-entry">
+            <h3 class="book-title">Lord of the rings (full collection)</h3>
+            <div class="book-entry-content">
+                <img class="book-photo" src="./resources/shop/ltr.jpg" alt="Lord of the rings" />
+                <div class="book-description">
+                    The future of civilization rests in the fate of the One Ring, which has been lost for centuries.
+                    Powerful forces are unrelenting in their search for it.
+                    But fate has placed it in the hands of a young Hobbit named Frodo Baggins, who inherits the Ring and
+                    steps into legend. A daunting task lies ahead for Frodo when he becomes the Ringbearer -
+                    to destroy the One Ring in the fires of Mount Doom where it was forged.
+                </div>
+            </div>
+            <div class='book-entry-footer'>
+                <button class='book-basket-add' data-title="Lord of the rings">
+                    Add to Basket
+                </button>
+            </div>
+        </div>
+
+        <!-- Basket -->
+        <div class='basket' id='basket'>
+            <div class='basket-title'>
+                <strong>Basket</strong>
+            </div>
+            <!-- Basket items get appended here -->
+        </div>
+
+</body>
+
+</html>

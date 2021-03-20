@@ -1,0 +1,44 @@
+.quote {
+  font-size: x-large;
+  font-family: 'Shell Roundhand', cursive;
+  background-color: #B9E2EB;
+  opacity: 70%;
+  text-align: center;
+  margin: 20px;
+}
+
+.about{
+  border: 2px solid #B9E2EB;
+  border-radius: 20px;
+  background-color: white;
+  padding: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  transition: all 0.2s ease-in-out;
+}
+
+.about-photo{
+  width: 300px;
+  height: 450px;
+  border-radius: 20px;
+  float: left;
+  margin-right: 20px;
+}
+
+.about-description {
+  font-size: medium;
+  font-family: 'Courier New', monospace;
+  vertical-align: middle;
+  height: 100%;
+  display: inline;
+}
+
+.about-description span {
+  margin: 20px;
+  display: block;
+}
