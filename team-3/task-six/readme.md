@@ -1,20 +1,18 @@
-Using javascript, implement the links in the top right of the page to change font size.
+Add a second page to the repository and link to it from the main page.
 
 Tasks:
 
-- Add a main.js file for your code.
-- Add script tags to index.html that link up the main.js file.
-- Use an onclick event in the anchor, that acts on the body style attribute to change font size.
-- Replicate anchor links that look and behave like those in the reference link below. The three in the top right of the document titled bigger, reset, smaller.
+- Add a second html file to the repository. Ensure it is linked to relevant css and js files.
+  -- This can just be a copy of the html in index.html for the time being, the placeholder will be replaced in a later task.
+- Name the second page 'art-trail'
+- Create a link to the page in the navigation section on the left
 - Push finished task data back to GitHub repo on a test branch
 
 Acceptance Criteria
 
-- Three buttons that:
-  - Make font 10% bigger than base
-  - Reset to original size
-  - Make font 10% smaller than base
-- Buttons in same style and layout as example site (reference link below)
+- Second html doc named 'Art Trail' created in task-six folder
+- art-trail.html has links to styles.css and main.js
+- a link is is the left hand nav section of index.html, that uses the href attribute to link to art-trail.html
 
 Reference link below:
 https://www.parkland-walk.org.uk/
