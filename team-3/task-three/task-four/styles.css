@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    margin-top: -30px;
+}
+.font-container{
+    display: flex;
+}
+.directory{
+    padding-left: 1em;
+}
+.font-size{
+    justify-content: flex-end;
+    display: flex;
+    flex: auto;  
+    padding-top: 2%;
+}
+.font-list{
+    padding-left: 1%;
+}
+.image-parkland{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+ul{
+    list-style-type: none;
+    
+}
+.nav-menu{
+    padding-left: 1%;
+    display: flex;
+    flex-direction: column;
+
+}
+.middle-page{
+    display: flex;
+}
+.article-section{
+    padding-left: 18%;
+    display: flex;
+}
+
+.left-container{
+    display: flow-root;
+    padding-left: 1%;
+
+}
