@@ -1,7 +1,8 @@
 # Domains and Learning Topics
 
 This is a list of concepts that Thoth will teach to mentees.
-Order from beginner at the top to advanced lower down
+
+Order from beginner at the top to advanced lower down.
 
 ## Testing
 
