@@ -6,7 +6,7 @@ Order from beginner at the top to advanced lower down.
 
 #### Blank Table
 
-| Learning /Action Point | Ticket Num | Notes | |
+| Action Point | Ticket Num | Notes | Learning Link |
 | :---: | :---: | :---: | :---: |
 
 ## Testing
@@ -15,7 +15,7 @@ Order from beginner at the top to advanced lower down.
 
 #### Naming and Location of Unit tests
 
-| Learning /Action Point | Ticket Num | Notes | Link |
+| Action Point | Ticket Num | Notes | Learning Link |
 | :---: | :---: | :---: | :---: |
 | Spec and Test | * | What's the difference? Is there a difference? | |
 | Where to put test files | * | Dedicated Test folder in same directory as src | |
@@ -23,14 +23,14 @@ Order from beginner at the top to advanced lower down.
 
 #### Structure of Jest Test
 
-| Learning /Action Point | Ticket Num | Notes | Link |
+| Action Point | Ticket Num | Notes | Learning Link |
 | :---: | :---: | :---: | :---: |
 | Describe | * | | |
 | Test Title | * | | |
 
 #### Expect
 
-| Learning /Action Point | Ticket Num | Notes | Link |
+| Action Point | Ticket Num | Notes | Learning Link |
 | :---: | :---: | :---: | :---: |
 | toEqual | * | | https://jestjs.io/docs/expect#toequalvalue
 | Test Title | * | | |
