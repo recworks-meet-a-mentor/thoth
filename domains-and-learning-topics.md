@@ -10,12 +10,12 @@ Order from beginner at the top to advanced lower down.
 
 #### Naming and location of Unit tests
 
-| Learning /Action Point             | Ticket Num                   | Notes                       |
-|:----------------------------------:| :---------------------------:|:---------------------------:|
-| Importing Jest                     |                              | |
-| Spec and Test                      |                              ||
-| Creating a test file                     |                              ||
-| Expect                           |                            | |
+| Learning /Action Point | Ticket Num | Notes |
+| :---: | :---: | :---: |
+| Importing Jest | * | |
+| Spec and Test | * | |
+| Creating a test file | * | |
+| Expect | * | |
 
 ### GUI Component Testing
 
