@@ -19,6 +19,7 @@ CSS Specificity ensures that your code is organized, and your selectors won't co
 
 JavaScript is a programming language that is used for web development, in web applications, games, and much more more.
 When used with HTML and CSS, we can create and control dynamic web content.
+
 The many things Javascript is use for are:
 -   **Adding interactivity to websites**
 -   **Developing mobile applications**
